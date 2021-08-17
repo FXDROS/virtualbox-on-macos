@@ -4,6 +4,7 @@
   <body class="plainclass">
     <div class="container">
       <div class="row">
+        {% include navbar.html %}
         <div class="column left">
           {% comment %}
           <img
@@ -23,7 +24,6 @@
           </div>
         </div>
       </div>
-      {% include navbar.html %}
       <div class="content">{{ content }}</div>
     </div>
   </body>
