@@ -52,15 +52,23 @@
   font-family: "Poppins", sans-serif;
   display: flex;
   justify-content: center;
-  width: 100%;
+  width: 1000px;
+}
+
+.inner-container {
+  width: 960px;
 }
 
 .content p img {
   width: 900px;
 }
 
+.content p {
+  margin-top: 3rem;
+}
+
 .content p,
 .content li,
 .content {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
