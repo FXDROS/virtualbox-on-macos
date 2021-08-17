@@ -36,8 +36,12 @@
   display: flex;
 }
 
-.navbar .left-navbar .menu,
 .navbar .right-navbar .menu {
   width: 180px;
+  text-align: center;
+}
+
+.navbar .left-navbar .menu {
+  width: 150px;
   text-align: center;
 }
