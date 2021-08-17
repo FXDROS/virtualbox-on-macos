@@ -49,4 +49,18 @@
 
 .container {
   padding-top: 150px;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.content p img {
+  width: 900px;
+}
+
+.content p,
+.content li,
+.content {
+  font-size: 1.25rem;
 }
