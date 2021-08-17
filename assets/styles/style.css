@@ -4,7 +4,6 @@
   margin: 0;
   color: #1a1a1a;
   background: #eeeeee;
-  padding-top: 150px;
 }
 
 .navbar {
@@ -46,4 +45,8 @@
 .navbar .left-navbar .menu {
   width: 150px;
   text-align: center;
+}
+
+.container {
+  padding-top: 150px;
 }
