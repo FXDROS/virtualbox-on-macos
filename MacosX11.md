@@ -7,7 +7,7 @@ permalink: /X11OnMacOS/
 
 You probably will not find any X11 application for MacOS. But there is an alternative; issued by the X.org as well, we can use XQuartz.
 
-1. Go to https://www.xquartz.org/ and download XQuartz dmg file. This is the 2.8.1 version, you might find different versions from releases menu on the side bar.<br>
+1. Go to [xquartz.org](https://www.xquartz.org/) and download XQuartz dmg file. This is the 2.8.1 version, you might find different versions from releases menu on the side bar.<br>
    ![](./assets/images/XQuartz/1.png)
 
 2. Run XQuartz installation program<br>
