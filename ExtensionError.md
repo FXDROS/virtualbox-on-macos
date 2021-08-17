@@ -6,7 +6,7 @@ permalink: /ExtensionError/
 
 ### While istalling VirtualBox extension, you might found this error that caused by incompatibility between your VirtualBox version and your VirtualBox Extension version. <br><br>
 
-![](./public/VirtualBox/1.png)
+![](./assets/images/VirtualBox/1.png)
 
 ### Therefore, you need to update your VirtualBox.
 
