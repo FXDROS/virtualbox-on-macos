@@ -2,17 +2,17 @@
 <html lang="en">
   {% include navbar.html %} {% include head.html %}
   <body class="plainclass">
+    <div class="column left">
+      {% comment %}
+      <img
+        src="{{ site.baseurl }}/assets/images/zenitsu.jpg"
+        alt="Zenitsu"
+        style="width: 130px"
+      />
+      {% endcomment %}
+    </div>
     <div class="container">
       <div class="row">
-        <div class="column left">
-          {% comment %}
-          <img
-            src="{{ site.baseurl }}/assets/images/zenitsu.jpg"
-            alt="Zenitsu"
-            style="width: 130px"
-          />
-          {% endcomment %}
-        </div>
         <div class="right">
           <div class="column right1">{{ site.title | escape }}</div>
           <div class="column right2">
