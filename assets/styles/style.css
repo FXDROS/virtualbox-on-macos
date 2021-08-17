@@ -10,7 +10,7 @@
   width: 100%;
   display: flex;
   justify-content: space-between;
-  padding: 1.25rem 0 1.25rem 0;
+  padding: 1.75rem 0 1.75rem 0;
   position: fixed;
   z-index: 10;
   font-size: 1rem;
@@ -30,4 +30,14 @@
 .navbar .left-navbar .menu a:hover,
 .navbar .right-navbar .menu a:hover {
   font-weight: 600;
+}
+
+.navbar .right-navbar {
+  display: flex;
+}
+
+.navbar .left-navbar .menu,
+.navbar .right-navbar .menu {
+  width: 180px;
+  text-align: center;
 }
