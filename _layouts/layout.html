@@ -3,27 +3,8 @@
   {% include navbar.html %} {% include head.html %}
   <body class="plainclass">
     <div class="container">
-      {% comment %}
-      <div class="row">
-        <div class="column left">
-          <img
-            src="{{ site.baseurl }}/assets/images/zenitsu.jpg"
-            alt="Zenitsu"
-            style="width: 130px"
-          />
-        </div>
-        <div class="right">
-          <div class="column right1">{{ site.title | escape }}</div>
-          <div class="column right2">
-            {% if page.author %}{{ page.author | escape }} {% else %}{{
-            site.author | escape }}{% endif %} --- {% if page.address %}{{
-            page.address | escape }} {% else %}{{ site.address | escape }}{%
-            endif %}
-          </div>
-        </div>
-      </div>
-      {% endcomment %}
       <div class="content">{{ content }}</div>
     </div>
+    {% include footer.html %}
   </body>
 </html>
