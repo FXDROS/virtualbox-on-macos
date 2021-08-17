@@ -17,13 +17,13 @@ permalink: /UpdateVirtualBox/
 4. Click on VirtualBox.pkg<br>
    ![](./assets/images/VirtualBox/5.png)
 
-5. Allow<br>
+5. Cick on **Allow** button<br>
    ![](./assets/images/VirtualBox/6.png)
 
-6. Continue<br>
+6. Cick on **Continue** button<br>
    ![](./assets/images/VirtualBox/7.png)
 
-7. Install<br>
+7. Cick on **Install** button<br>
    ![](./assets/images/VirtualBox/8.png)
 
 8. Open Security Preferences<br>

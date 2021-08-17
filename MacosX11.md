@@ -16,22 +16,22 @@ You probably will not find any X11 application for MacOS. But there is an altern
 3. Click on XQuartz.pkg<br>
    ![](./assets/images/XQuartz/3.png)
 
-4. Allow<br>
+4. Cick on **Allow** button<br>
    ![](./assets/images/XQuartz/4.png)
 
-5. Continue<br>
+5. Cick on **Continue** button<br>
    ![](./assets/images/XQuartz/5.png)
 
-6. Continue<br>
+6. Cick on **Continue** button<br>
    ![](./assets/images/XQuartz/6.png)
 
-7. Continue<br>
+7. Cick on **Continue** button<br>
    ![](./assets/images/XQuartz/7.png)
 
-8. Agree<br>
+8. Cick on **Agree** button<br>
    ![](./assets/images/XQuartz/8.png)
 
-9. Install<br>
+9. Cick on **Install** button<br>
    ![](./assets/images/XQuartz/9.png)
 
 10. Close (The program might ask you to logout or restart your device. If so, do as it says)<br>

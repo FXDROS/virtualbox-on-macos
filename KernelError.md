@@ -15,7 +15,7 @@ When you are trying to run your Debian Guest in VirtualBox, you probably will se
 2. Click on **Allow** button at bottom right<br>
    ![](./assets/images/VirtualBox/10.png)
 
-3. Restart device<br>
+3. Restart your device<br>
    ![](./assets/images/VirtualBox/11.png)
 
 4. Reopen VirtualBox<br>
