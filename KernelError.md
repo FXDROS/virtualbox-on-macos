@@ -12,22 +12,22 @@ permalink: /KernelError/
 ### Therefore, there are several steps you need to do. <br><br>
 
 1. Open Security & Privacy System Preferences <br>
-   Simply press &#8984; + `space` and type `Security & Privacy` <br><br>
+   Simply press &#8984; + `space` and type `Security & Privacy`
 
-![](./assets/images/VirtualBox/18.png) <br><br>
+![](./assets/images/VirtualBox/18.png)
 
-2. Click on **Allow** button at bottom right
+2. Click on **Allow** button at bottom right<br>
 
-![](./assets/images/VirtualBox/10.png) <br><br>
+![](./assets/images/VirtualBox/10.png)
 
-3. Restart device
+3. Restart device<br>
 
-![](./assets/images/VirtualBox/11.png) <br><br>
+![](./assets/images/VirtualBox/11.png)
 
-4. Reopen VirtualBox
+4. Reopen VirtualBox<br>
 
-![](./assets/images/VirtualBox/13.png) <br><br>
+![](./assets/images/VirtualBox/13.png)
 
-5. Rerun Debian Guest
+5. Rerun Debian Guest<br>
 
-![](./assets/images/VirtualBox/21.png) <br><br>
+![](./assets/images/VirtualBox/21.png)
