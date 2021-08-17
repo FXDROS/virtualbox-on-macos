@@ -6,30 +6,28 @@
   background: #eeeeee;
 }
 
-a {
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar .left-navbar .menu a,
+.navbar .right-navbar .menu a {
   text-decoration: none;
   font-family: "Poppins", sans-serif;
   color: #1a1a1a;
   font-weight: 400;
-}
-
-a:hover {
-  font-weight: 600;
-}
-
-.navbar {
-  display: flex;
-  width: 100vw;
-  justify-content: space-evenly;
-  align-items: center;
+  margin: 1rem;
   padding: 1.25rem 0 1.25rem 0;
   position: fixed;
   z-index: 10;
   font-size: 1rem;
   background-color: #eeeeee;
-  filter: drop-shadow(0 2mm 0.75rem #6d6d6d);
+  filter: drop-shadow(0 2mm 0.75rem #bebebe);
 }
 
-.menu {
-  width: 120px;
+.navbar .left-navbar .menu a:hover,
+.navbar .right-navbar .menu a:hover {
+  font-weight: 600;
 }
