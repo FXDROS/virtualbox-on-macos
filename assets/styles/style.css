@@ -1,9 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
 
+.plainclass {
+  margin: 0;
+  color: #1a1a1a;
+  background: #eeeeee;
+}
+
 a {
   text-decoration: none;
   font-family: "Poppins", sans-serif;
   font-size: 0.75rem;
+  color: #1a1a1a;
+  font-weight: 400;
+}
+
+a:hover {
+  font-weight: 600;
 }
 
 .navbar {
@@ -11,7 +23,14 @@ a {
   width: 100vw;
   justify-content: space-between;
   align-items: center;
-  padding: 0 1rem 0 1rem;
+  padding: 1.25rem 0 1.25rem 0;
   position: fixed;
   z-index: 10;
+  font-size: 1rem;
+  background-color: #eeeeee;
+  filter: drop-shadow(0 2mm 0.75rem #6d6d6d);
+}
+
+.menu {
+  font-size: 1.25rem;
 }
