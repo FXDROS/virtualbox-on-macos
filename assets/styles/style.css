@@ -4,6 +4,7 @@
   margin: 0;
   color: #1a1a1a;
   background: #eeeeee;
+  min-height: 100vh;
 }
 
 .navbar {
@@ -78,4 +79,14 @@
 .content a {
   text-decoration: none;
   color: rgb(0, 89, 206);
+}
+
+.footer {
+  font-family: "Poppins", sans-serif;
+  background-color: #eeeeee;
+}
+
+.footer a {
+  color: rgb(0, 89, 206);
+  text-decoration: none;
 }
