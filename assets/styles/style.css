@@ -32,7 +32,8 @@
   font-weight: 600;
 }
 
-.navbar .right-navbar {
+.navbar .right-navbar,
+.navbar .left-navbar {
   display: flex;
 }
 
