@@ -9,6 +9,8 @@ This site is spcifically made for MacOS users during the operating system course
 
 ## List of Contents
 
+`[DISCLAIMER] : Installation for VirtualBox on MacOS is not explicitly explained in this site. You can check https://osp4diss.vlsm.org/ for the installation -- Choose MaxOS installation file instead of Windows/Linux`
+
 1. [Installing VirtualBox](https://osp4diss.vlsm.org/#idx00b)
 2. [Updating VirtualBox](https://fxdros.github.io/virtualbox-on-macos/UpdateVirtualBox/)
 3. [Kernel Driver Error](https://fxdros.github.io/virtualbox-on-macos/KernelError/)
