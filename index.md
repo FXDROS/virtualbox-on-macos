@@ -4,13 +4,13 @@ layout: "layout"
 
 # More On MacOS
 
-This is {{ site.title }}, managed by {{ site.author }}, since {{site.year}}.
-This site is spcifically made for MacOS users during the operating system course. You might find some stuffs that are only happen at MacOS during VirtualBox, Debian Guest, and X11(XQuartz) setup. There are some tutorials ready to be used, feel free to explore it.
+This is the {{ site.title }}, managed by {{ site.author }}, since {{site.year}}.
+This site is for macOS users during the operating system course. Suppose you find this site handy to solve some problems that only happened at macOS during VirtualBox, Debian Guest, and X11(XQuartz) setup.
 <br><br>
 
 ## List of Contents
 
-`[DISCLAIMER] : Installation for VirtualBox on MacOS is not explicitly explained in this site. You can check https://osp4diss.vlsm.org/ for the installation -- Choose MacOS installation file instead of Windows/Linux`
+`[DISCLAIMER] : Installation for VirtualBox on macOS is not explicitly explained on this site; you can check https://osp4diss.vlsm.org/ for it -- Choose macOS installation file instead of Windows/Linux`
 
 1. [Installing VirtualBox](https://osp4diss.vlsm.org/#idx00b)
 2. [Updating VirtualBox](https://fxdros.github.io/virtualbox-on-macos/UpdateVirtualBox/)

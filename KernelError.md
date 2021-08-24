@@ -7,7 +7,7 @@ permalink: /KernelError/
 
 ![](./assets/images/VirtualBox/17.png)
 
-When you are trying to run your Debian Guest in VirtualBox, you probably will see this error that caused by incomplete setup of the Kernel Driver. Therefore, there are several steps you need to do. <br><br>
+When you are trying to run your Debian Guest in VirtualBox, you probably will see this error caused by the incomplete setup of the Kernel Driver. Therefore, there are several things you need to do. <br><br>
 
 1. Open Security & Privacy System Preferences by simply press &#8984; + `space` and type `Security & Privacy` <br>
    ![](./assets/images/VirtualBox/18.png)
