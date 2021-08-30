@@ -1,2 +1,5 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Feel free to change the content of this file as your preference.
+
 #misc
 .DS_Store
